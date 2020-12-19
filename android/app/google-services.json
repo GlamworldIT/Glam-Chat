@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "377270253273",
+    "firebase_url": "https://glam-chat-92349.firebaseio.com",
+    "project_id": "glam-chat-92349",
+    "storage_bucket": "glam-chat-92349.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377270253273:android:839fd207a99c274e01b0c8",
+        "android_client_info": {
+          "package_name": "com.glamworlditltd.glam_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377270253273-btb3djn19pk7s2617a7rel10no8hiboj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.glamworlditltd.glam_chat",
+            "certificate_hash": "064b34ddbe7b6403a2f617bff9c8365c23cc57e0"
+          }
+        },
+        {
+          "client_id": "377270253273-enmgdo6mpu2gdtutmpse5233brksiqvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ1WkgiY0_Z5eu7povYY7V9R1X4qYJE54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377270253273-enmgdo6mpu2gdtutmpse5233brksiqvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
